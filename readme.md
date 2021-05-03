@@ -2,6 +2,8 @@ Welcome to the Automation Coding challenge. Please read carefully the instructio
 
 ### Instructions
 
+Please clone this project and push it in your own remote repository.
+
 You need to create an automation project that mimics the below steps. Your project should maximize browser coverage and leverage the Behavior Driven Development Framework.
 
 There is no restriction for programming languages or frameworks.
