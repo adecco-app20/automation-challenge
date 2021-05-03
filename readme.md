@@ -1,3 +1,5 @@
+Welcome to the Automation Coding challenge. Please read carefully the instructions and if you have any questions don't hesitate to ask.
+
 ### Instructions
 
 You need to create an automation project that mimics the below steps. Your project should maximize browser coverage and leverage the Behavior Driven Development Framework.
